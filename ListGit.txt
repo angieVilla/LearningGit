@@ -1,5 +1,5 @@
 <head>
-Mi nombre de Angelica Villamil, soy ingeniera de sistemas de la Universidad Industrial de Santander , soy de la ciudad de Bucaramanga y me gusta aprender cosas nuevas y conocer nuevas personas y sus culturas. He tenido la oportunidad de trabajar en desarrollo Web en 2 empresas y aprender cosas de .Net
+Mi nombre de Angelica Villamil, soy de la ciudad de Bucaramanga y me gusta aprender cosas nuevas y conocer nuevas personas y sus culturas. He tenido la oportunidad de trabajar en desarrollo Web en 2 empresas y aprender cosas de .Net
 Tengo muchos deseos de mejorar mis tecnicas y lógica de programación ademas de nuevas tecnologias para el FrontEnd
 
 </head>
